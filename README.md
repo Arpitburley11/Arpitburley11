@@ -18,6 +18,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Arpitburley11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitburley11&show_icons=true&locale=en&layout=compact" alt="arpitburley11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitburley11&theme=radical&show_icons=true&locale=en&layout=compact" alt="arpitburley11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitburley11&" alt="arpitburley11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitburley11&theme=radical" alt="arpitburley11" /></p>
