@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Web Developer from India.</h3>
 
 
-- 🔭 I’m currently working on *E-Commerce Website*
+- 🔭 I’m currently working on *Fetal Heart Detection*
 
-- 🌱 I’m currently learning *Next.js*
+- 🌱 I’m currently learning *Deep Learning*
 
 - 👯 I’m looking to collaborate on *ML Projects*
 
